@@ -15,24 +15,6 @@ This is a lightweight, explainable AI tool that analyzes Sea Surface Temperature
 
 
 
-
-
-📁 Project Structure
-
-marine-ai-assistant/
-├── app.py                     # Streamlit app
-├── test_classifier.py         # CLI test runner
-├── Data/
-│   └── sample_sst.csv         # Sample ocean SST anomaly data
-├── model/
-│   └── risk_classifier.py     # Classifies bleaching risk
-├── llm/
-│   └── explainer.py           # LLM explanation logic
-├── requirements.txt
-└── README.md
-
-
-
 🧠 Tech Stack
 
 - Python
