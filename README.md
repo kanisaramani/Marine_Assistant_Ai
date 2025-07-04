@@ -4,7 +4,7 @@ This is a lightweight, explainable AI tool that analyzes Sea Surface Temperature
 
 > Built in under a day using Python, Streamlit, and Hugging Face Transformers 🚀
 
----
+
 
 🔍 What It Does
 
@@ -13,14 +13,14 @@ This is a lightweight, explainable AI tool that analyzes Sea Surface Temperature
 - ✅ Uses an LLM to explain the risk in plain language
 - ✅ Presents all results in an interactive Streamlit dashboard
 
----
+
 
 🚀 Live App
 
 👉 Try it here: https://your-name.streamlit.app
 💻 Code on GitHub: https://github.com/yourusername/marine-ai-assistant
 
----
+
 
 📁 Project Structure
 
@@ -36,7 +36,7 @@ marine-ai-assistant/
 ├── requirements.txt
 └── README.md
 
----
+
 
 ⚙️ How to Run Locally
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 3. Run the app
 streamlit run app.py
 
----
+
 
 🧠 Tech Stack
 
@@ -59,7 +59,7 @@ streamlit run app.py
 - Hugging Face Transformers (flan-t5-base)
 - Pandas
 
----
+
 
 📚 Data Source
 
@@ -68,7 +68,7 @@ Sample data is adapted for demo purposes. Real-time SST anomaly data can be retr
 - GHRSST
 - CMEMS (Copernicus Marine)
 
----
+
 ✨ Future Ideas
 
 - 🌐 Add real-time API data feed
@@ -76,7 +76,6 @@ Sample data is adapted for demo purposes. Real-time SST anomaly data can be retr
 - 📩 Email alerts to marine researchers
 - 🌍 Translate summaries to regional languages
 
----
 🙌 Acknowledgments
 
 Huge thanks to:
