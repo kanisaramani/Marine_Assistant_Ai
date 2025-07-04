@@ -15,11 +15,6 @@ This is a lightweight, explainable AI tool that analyzes Sea Surface Temperature
 
 
 
-🚀 Live App
-
-👉 Try it here: https://your-name.streamlit.app
-💻 Code on GitHub: https://github.com/yourusername/marine-ai-assistant
-
 
 
 📁 Project Structure
@@ -35,20 +30,6 @@ marine-ai-assistant/
 │   └── explainer.py           # LLM explanation logic
 ├── requirements.txt
 └── README.md
-
-
-
-⚙️ How to Run Locally
-
-1. Clone the repo
-git clone https://github.com/yourusername/marine-ai-assistant.git
-cd marine-ai-assistant
-
-2. Install dependencies
-pip install -r requirements.txt
-
-3. Run the app
-streamlit run app.py
 
 
 
